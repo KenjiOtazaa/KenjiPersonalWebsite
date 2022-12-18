@@ -1,4 +1,4 @@
-# 📖 Kenji-personal-portfolio
+# 📖 Kenji Personal Website
 
 <img src="images/readme/banner.png">
 
